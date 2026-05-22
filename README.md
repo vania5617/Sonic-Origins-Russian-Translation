@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8f563291-d21e-4520-945a-4f1daa93b8d8" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/df2b10fe-a758-4cb1-9c77-9c9f66329150" /># Соник Истоки на Русском (Sonic Origins Russian Translation)
+# Соник Истоки на Русском (Sonic Origins Russian Translation)
 ![Cover Image](https://images.gamebanana.com/img/ss/wips/69011b551d44b.jpg)
 Классические игры про Соника возвращаются с русским переводом!
 
