@@ -2,7 +2,7 @@
 Классические игры про Соника возвращаются с русским переводом!
 
 # ENGLISH
-Hi there! My name is vania5617, and welcome to my WiP repository! This WiP is adding Russian translation of all classic Sonic the Hedgehog games (Sonic 1, Sonic CD, Sonic 2 and Sonic 3 & Knuckles). Mod first released at Sonic Hacking Contest 2024, and after Contest week it's released on GameBanana. Now it's available in GitHub too!
+Hi there! My name is vania5617, and welcome to my WiP repository! This WiP is adding Russian translation of all classic Sonic the Hedgehog games (Sonic 1, Sonic CD, Sonic 2 and Sonic 3 & Knuckles). Mod first released at Sonic Hacking Contest 2024, an updated version was presented at the Sonic Hacking Contest 2025 and after Contest week it's released on GameBanana. Now it's available in GitHub too!
 
 To run this mod you need a legally purchased copy of Sonic Origins and Sonic Origins Plus - Expansion Pack and HedgeModManager installed (distributed free)
 
