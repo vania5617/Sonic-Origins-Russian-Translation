@@ -1,0 +1,73 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "Elements": [
+        {
+          "Name": "IncludeDir0",
+          "Description": [
+            "Включите эту опцию, если хотите использовать этот мод вместе с Sonic Origins Ultrafix"
+          ],
+          "DisplayName": "Поддержка Sonic Origins Ultrafix",
+          "Type": "ULTRAFIXSUPPORT",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "Выкл"
+        },
+        {
+          "Name": "IncludeDir2",
+          "Description": [
+            ""
+          ],
+          "DisplayName": "Тип логотипа в главном меню",
+          "Type": "ULTRAFIXLOGOS",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "Default"
+        }
+      ]
+    }
+  ],
+  "Enums": {
+    "ULTRAFIXSUPPORT": [
+      {
+        "DisplayName": "Выкл",
+        "Value": ".",
+        "Description": [
+          "Включить мод без поддержки Sonic Origins Ultrafix"
+        ]
+      },      
+      {
+        "DisplayName": "Вкл",
+        "Value": ".\\Ultrafix\\",
+        "Description": [
+          "Включить мод с поддержкой Sonic Origins Ultrafix"
+        ]       
+      }
+    ],
+    "ULTRAFIXLOGOS": [
+      {
+        "DisplayName": "Обычный",
+        "Value": ".\\Logos\\Default\\",
+        "Description": [
+          "Обычный логотип СОНИК ИСТОКИ (Если есть DLC: ПЛЮС)"
+        ]
+      },      
+      {
+        "DisplayName": "Ultrafix V1",
+        "Value": ".\\Logos\\UltrafixLogoV1\\",
+        "Description": [
+          "Логотип с золотой надписью УЛЬТРАФИКС"
+        ]
+      },
+      {
+        "DisplayName": "Ultrafix V2",
+        "Value": ".\\Logos\\UltrafixLogoV2\\",
+        "Description": [
+          "Логотип с розово-голубой градиентной надписью УЛЬТРАФИКС"
+        ]
+      }
+    ]
+  },
+  "IniFile": "mod.ini"
+}
