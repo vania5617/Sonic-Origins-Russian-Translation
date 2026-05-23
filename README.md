@@ -31,6 +31,6 @@ Sonic 3 & Knuckles Russian Title Screen
 Sonic 3 & Knuckles Gameplay
 
 # DOWNLOAD LINKS/ССЫЛКИ ДЛЯ СКАЧИВАНИЯ
-* [Sonic Hacking Contest 2024](https://shc.zone/entries/contest2024/1007)
-* [Sonic Hacking Contest 2025](https://shc.zone/entries/contest2025/1310)
+* [Sonic Hacking Contest 2024](https://shc.zone/entries/contest2024/1007) Website
+* [Sonic Hacking Contest 2025](https://shc.zone/entries/contest2025/1310) Website
 * [GameBanana](https://gamebanana.com/wips/84392)
