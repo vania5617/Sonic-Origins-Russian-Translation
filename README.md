@@ -10,7 +10,7 @@ To run this mod you need a legally purchased copy of Sonic Origins and Sonic Ori
 # РУССКИЙ
 Привет! Меня зовут vania5617, и добро пожаловать в мой репозиторий с моим WiP! В этом проекте добавлен русский перевод для всех классических игр Sonic the Hedgehog (Sonic 1, Sonic CD, Sonic 2 и Sonic 3 & Knuckles). Мод был впервые представлен на конкурсе Sonic Hacking Contest 2024, была представлена обновлённая версия на Sonic Hacking Contest 2025, а после завершения конкурса он был выпущен на GameBanana. Теперь он также доступен и на GitHub!
 
-Для запуска этого мода вам потребуется легально приобретенная копия Sonic Origins и Sonic Origins Plus - Expansion Pack, а также установленный HedgeModManager (распространяются бесплатно)
+Для запуска этого мода вам потребуется легально приобретённая копия Sonic Origins и Sonic Origins Plus - Expansion Pack, а также установленный HedgeModManager (распространяются бесплатно)
 
 # SCREENSHOTS/СКРИНШОТЫ
 ![S1 TS](https://images.gamebanana.com/img/ss/wips/67fe8aaf4fba1.jpg)
