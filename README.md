@@ -29,3 +29,8 @@ Sonic 2 Gameplay
 Sonic 3 & Knuckles Russian Title Screen
 ![S3&K GP](https://images.gamebanana.com/img/ss/wips/69043b5764b91.jpg)
 Sonic 3 & Knuckles Gameplay
+
+# DOWNLOAD LINKS/ССЫЛКИ ДЛЯ СКАЧИВАНИЯ
+* [Sonic Hacking Contest 2024](https://shc.zone/entries/contest2024/1007)
+* [Sonic Hacking Contest 2025](https://shc.zone/entries/contest2025/1310)
+* [GameBanana](https://gamebanana.com/wips/84392)
