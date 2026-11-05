@@ -535,16 +535,16 @@ event ObjectStartup
 	SpriteFrame(0, 0, 16, 16, 59, 113)		// #24 - "У"
 	SpriteFrame(0, 0, 16, 16, 76, 113)		// #25 - "Ы"
 	SpriteFrame(0, 0, 17, 16, 24, 119)		// #26 - "Ф"
-    SpriteFrame(0, 0, 21, 16, 2, 119)		// #27 - "Ш"
-	SpriteFrame(0, 0, 21, 16, 2, 119)		// #28
-	SpriteFrame(0, 0, 21, 16, 2, 119)		// #29
-	SpriteFrame(0, 0, 21, 16, 2, 119)		// #30
-	SpriteFrame(0, 0, 21, 16, 2, 119)		// #31
-	SpriteFrame(0, 0, 21, 16, 2, 119)		// #32
-	SpriteFrame(0, 0, 21, 16, 2, 119)		// #33
-	SpriteFrame(0, 0, 21, 16, 2, 119)		// #34
-	SpriteFrame(0, 0, 21, 16, 2, 119)		// #35
-	SpriteFrame(0, 0, 21, 16, 2, 119)		// #36
+	SpriteFrame(0, 0, 21, 16, 2, 119)		// #27 - "Ш"
+	SpriteFrame(0, 0, 17, 16, 24, 119)		// #28
+	SpriteFrame(0, 0, 17, 16, 24, 119)		// #29
+	SpriteFrame(0, 0, 17, 16, 24, 119)		// #30
+	SpriteFrame(0, 0, 17, 16, 24, 119)		// #31
+	SpriteFrame(0, 0, 17, 16, 24, 119)		// #32
+	SpriteFrame(0, 0, 17, 16, 24, 119)		// #33
+	SpriteFrame(0, 0, 17, 16, 24, 119)		// #34
+	SpriteFrame(0, 0, 17, 16, 24, 119)		// #35
+	SpriteFrame(0, 0, 17, 16, 24, 119)		// #36
 
 	SpriteFrame(0, 0, 8, 256, 248, 0)		// #37 Red Sidebar - #26
 	SpriteFrame(0, 0, 62, 16, 83, 1) 		// #38 Zone - #27
